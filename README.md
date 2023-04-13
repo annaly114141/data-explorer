@@ -1,6 +1,4 @@
-## Author
-
-** Authors **
+## Authors
 
 - Hayden Puckeridge
 - Anna Ly
