@@ -1,11 +1,11 @@
 ## Author
 
-**Team 8**
+** Authors **
 
-Hayden Puckeridge
-Anna Ly
-Suellen Fletcher
-Alexis Henderson
+- Hayden Puckeridge
+- Anna Ly
+- Suellen Fletcher
+- Alexis Henderson
 
 
 ## Description
